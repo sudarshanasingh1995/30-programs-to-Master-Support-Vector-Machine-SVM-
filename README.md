@@ -1,6 +1,8 @@
 # 🚀 30 Programs to Master Support Vector Machine (SVM)
+<img width="565" height="242" alt="Screenshot 2026-06-26 021123" src="https://github.com/user-attachments/assets/a7c463b0-d78c-4ef2-b31c-4e6aafd2d0a0" />
 
 Welcome to the ultimate hands-on repository for mastering **Support Vector Machines (SVM)**! This repository contains a curated collection of **30 practical Python programs** engineered to take you from foundational intuition to production-ready implementation. 
+
 
 SVM remains one of the most mathematically elegant and robust supervised learning algorithms in data science. This project bridges the gap between complex mathematical theory and practical execution using clean, well-documented code.
 
